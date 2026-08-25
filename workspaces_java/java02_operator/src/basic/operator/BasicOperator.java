@@ -180,3 +180,16 @@ public class BasicOperator {
         System.out.println(result18);
     }
 }
+/*
+Code (CS)
+클래스 코드와 함수들의 실제 코드
+
+Data Segment (DS)
+static이 붙은 변수, 전역 변수
+
+Heap
+new로 만든 객체 알맹이 + 클래스 안의 일반 멤버 변수들
+
+Stack
+딱 void functionName() 같은 메서드 안에서 선언하고 쓰는 지역 변수들
+ */
